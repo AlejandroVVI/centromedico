@@ -1,5 +1,4 @@
 # centromedico
 
 ## Ver ejemplo en vivo
-- [https://clinicalacruz.online/](https://clinicalacruz.online/)
-
+- [https://centromedicolc.infinityfreeapp.com/](https://centromedicolc.infinityfreeapp.com/)
